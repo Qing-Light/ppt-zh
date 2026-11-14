@@ -1,0 +1,18 @@
+{
+  "version": 4,
+  "units": {"geometry": "inch", "font": "pt", "color": "hex_rgb", "panel_spacing": "px_at_300_dpi"},
+  "slide": {"width": 13.333, "height": 7.5, "background": "FFFFFF"},
+  "colors": {"primary": "000099", "title": "0000CC", "conclusion": "0070C0", "emphasis": "FF0000", "black": "000000", "white": "FFFFFF", "table_header": "5B9BD5", "table_alternate": "D9D9D9"},
+  "title": {"font": "微软雅黑", "size": 26, "bold": true, "color": "0000CC"},
+  "header_line": {"width_pt": 4.5, "color": "000099", "y": 0.76, "outline_y": 0.76},
+  "body": {"size": 24, "color": "000000", "emphasis_color": "FF0000", "emphasis_add_boundary_spaces": false},
+  "emphasis_policy": {"automatic_keywords": false, "requires_user_specified_content": true, "result_sentence_color": "0070C0", "figure_red_annotations_default": false, "preserve_cover_red_title": true, "preserve_source_image_colors": true},
+  "cover": {"image_x": 0.20, "image_y": 0.20, "image_max_width": 12.93, "image_max_height": 5.20, "image_fit": "contain", "title_size_range": [24,28], "title_y": 5.55, "title_color": "FF0000", "affiliation_size_range": [11,12], "affiliation_color": "gray", "identity_y": 6.85, "identity_size": 22, "identity_bold": true, "identity_max_size": "actual_cover_title_size", "presenter_label": "汇报人：", "date_label": "汇报日期：", "identity_values": "blank"},
+  "result": {"content_y_range": [1.38,6.24], "caption_size_range": [9,10], "caption_bold": true, "conclusion_y": 6.30, "conclusion_width_range": [9.3,12.7], "conclusion_size": 20, "conclusion_color": "0070C0", "conclusion_align": "center", "caption_gap_range": [0.05,0.06], "conclusion_max_lines": 2, "annotation_max_count": 8},
+  "subheading": {"size": 18, "bold": true, "color": "000000", "y": 0.94, "max_characters": 20, "max_lines": 1, "optional_bar_width": 0.07, "optional_bar_height": 0.26, "optional_bar_color": "000099"},
+  "methods": {"stages_default": 5, "stages_range": [4,6], "table_size": 22, "table_align": "center", "header_fill": "5B9BD5", "header_text": "FFFFFF", "alternating_fills": ["D9D9D9","FFFFFF"], "border_color": "gray", "stage_bold": true, "goal_size": 24, "goal_color": "0070C0", "goal_y": 6.55, "goal_max_lines": 1},
+  "outline": {"page_title": "汇报安排", "title_x": 0.28, "title_y": 0.10, "title_size": 40, "title_color": "0B3DA9", "title_bold": true, "show_title_band": false, "show_numbers": true, "number_format": "02d", "number_x": 4.18, "number_side": 0.64, "number_size": 25, "number_fill": "0B3DA9", "number_color": "FFFFFF", "row_center_y": [1.65,3.18,4.71,6.24], "item_x": 5.95, "item_width": 3.35, "item_height": 0.64, "item_size": 30, "item_color": "0B3DA9", "item_bold": true, "item_align": "center", "divider_x": 1.25, "divider_width": 11.65, "divider_y": [2.40,3.93,5.46,6.99], "divider_color": "D6E0EF", "divider_width_pt": 0.6, "header_line_y": 0.76, "header_line_color": "D6E0EF", "header_line_width_pt": 0.6, "items": ["研究背景", "技术路线", "结果讨论", "不足与展望"]},
+  "images": {"render_dpi_min": 300, "aspect_error_max_exclusive": 0.005},
+  "panels": {"aspect_range": [2.0,3.2], "aspect_preferred_range": [2.2,2.6], "gap_px_range": [20,30], "row_right_edge_error_max": 0.02, "continuous_blank_area_ratio_max": 0.10, "outer_margin_px_max": 30, "scale_max": 1.15},
+  "preview": {"width_px": 1920, "height_px": 1080}
+}

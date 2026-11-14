@@ -1,4 +1,4 @@
 interface:
   display_name: "ppt-zh"
-  short_description: "内置中文润色，将论文制成一图一句的可编辑组会 PPT"
-  default_prompt: "请使用 $ppt-zh，将我提供的论文 PDF 制作成中文组会汇报 PPT；汇报人和日期按我提供的信息填写。"
+  short_description: "将 PDF 或 Word 论文制成一图一句的可编辑组会 PPT"
+  default_prompt: "请使用 $ppt-zh，将我提供的 PDF 或 Word 论文制作成中文组会汇报 PPT；封面的汇报人和汇报日期标签后留白。"
